@@ -1,5 +1,22 @@
 # 3XPDOS-v1.3
+FEATURE AND METHOD
+<p>
+ ______  __ ____     ____  ____  _____
+  |__  / |/ // __ \   / __ \/ __ \/ ___/
+   /_ <|   // /_/ /  / / / / / / /\__ \
+ ___/ /   |/ ____/  / /_/ / /_/ /___/ /
+/____/_/|_/_/      /_____/\____//____/
 
+GREATZ ALL MEMBER COD-3X & 3XP.OFC
+
+    ├─── DOS TOOL
+    ├─── AVAILABLE METHODS
+    ├─── LAYER 7: HTTP | HTTP-PROXY | SLOWLORIS | SLOWLORIS-PROXY
+    ├─── LAYER 4: SYN-FLOOD
+    ├─── LAYER 2: ARP-SPOOF | DISCONNECT
+    ├───┐
+<p>
+#
 <h4>HOW TO INSTALL??
   <p>
 <p>
