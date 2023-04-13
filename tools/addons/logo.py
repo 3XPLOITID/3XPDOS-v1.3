@@ -28,7 +28,7 @@ Y88b  d88P d88P Y88b 888       888  .d88PY88b. .d88PY88b  d88P
 GREATZ ALL MEMBER COD-3X AND 3XP.OFC
   """
 
-    print(f"{F.RED}{logo}")
+    print(f"{F.BLUE}{logo}")
     print("├─── DOS TOOL")
     print("├─── AVAILABLE METHODS")
     print("├─── LAYER 7: HTTP | HTTP-PROXY | SLOWLORIS | SLOWLORIS-PROXY")
