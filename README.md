@@ -1,6 +1,7 @@
 # 3XPDOS-v1.3
 
 <h4>HOW TO INSTALL??
+  <p>
 <p>
 SUDO APT INSTALL GIT
 <p>
