@@ -12,4 +12,4 @@ CD 3XPDOS-v1.3
 <p>
 PIP3 INSTALL -r requirements>txt
 <p>
-PYTHON3 start>py
+PYTHON3 start.py
