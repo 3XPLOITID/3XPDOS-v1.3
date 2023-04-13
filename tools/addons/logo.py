@@ -32,4 +32,4 @@ GREATZ ALL MEMBER COD-3X & 3XP.OFC
     if os.name != "nt":
         print("├─── LAYER 4: SYN-FLOOD")
         print("├─── LAYER 2: ARP-SPOOF | DISCONNECT")
-    print("├───┐")
+    print(f"{F.BLUE}├───┐") 
