@@ -27,3 +27,10 @@ CD 3XPDOS-v1.3
 PIP3 INSTALL -r requirements>txt
 <p>
 PYTHON3 start.py
+
+
+<h2>Dev By Fadedty</h2
+<p>
+<h3>©3XPLOIT.ID 2023</h3>
+<p>
+<h4>Ketauan nge recode SC ini kami nyata in war ke yg recode! 
