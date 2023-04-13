@@ -20,7 +20,7 @@ def check_method_input() -> str:
     Returns:
         - method - A valid method name
     """
-    while (method := input(f"{F.RED}│   ├─── METHOD: {F.RESET}").lower()) not in [
+    while (method := input(f"{F.BLUE}│   ├─── METHOD: {F.RESET}").lower()) not in [
         "http",
         "http-proxy",
         "slowloris",
