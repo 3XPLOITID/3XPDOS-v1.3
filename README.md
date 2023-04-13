@@ -27,7 +27,7 @@ CD 3XPDOS-v1.3
 PIP3 INSTALL -r requirements>txt
 <p>
 PYTHON3 start.py
-
+<p>
 
 <h2>Dev By Fadedty</h2
 <p>
