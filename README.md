@@ -1,11 +1,7 @@
 # 3XPDOS-v1.3
 FEATURE AND METHOD
 <p>
- ______  __ ____     ____  ____  _____<p>
-  |__  / |/ // __ \   / __ \/ __ \/ ___/<p>
-   /_ <|   // /_/ /  / / / / / / /\__ \<p>
- ___/ /   |/ ____/  / /_/ / /_/ /___/ /<p>
-/____/_/|_/_/      /_____/\____//____/<p>
+
 
 GREATZ ALL MEMBER COD-3X & 3XP.OFC
 
@@ -16,7 +12,7 @@ GREATZ ALL MEMBER COD-3X & 3XP.OFC
     ├─── LAYER 2: ARP-SPOOF | DISCONNECT
     ├───┐
 <p>
-#
+# 
 <h4>HOW TO INSTALL??
   <p>
 <p>
